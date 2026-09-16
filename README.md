@@ -31,7 +31,7 @@ This repository documents my personal cybersecurity homelab, designed to simulat
 ## 📂 Repository Structure
 *   `/diagrams` - Architecture diagrams.
 *   `/screenshots` - Evidence of attacks, SIEM alerts, and terminal logs.
-*   
+ 
 
 ## 🎯 Key Takeaways
 *   Learned how to deploy and configure Wazuh agents across Windows and Linux environments.
